@@ -10,7 +10,7 @@ class FullImageScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Full Image'),
+        title: Text('Display Full Image'),
       ),
       body: Center(
         child: Column(
